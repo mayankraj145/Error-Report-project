@@ -1,0 +1,59 @@
+.error-report-generator {
+  padding: 20px;
+}
+
+.report-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.report-table th,
+.report-table td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+}
+
+.download-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.download-button:hover {
+  background-color: #0056b3;
+}
+.error-report-generator {
+  padding: 20px;
+}
+
+.upload-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.upload-button:hover {
+  background-color: #0056b3;
+}
+
+.generate-button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.generate-button:hover {
+  background-color: #1f8533;
+}
